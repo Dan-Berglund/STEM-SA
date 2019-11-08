@@ -17,5 +17,5 @@ Tentative Assignments
 Backend- Johnny, Andrew, Dan(if he figures out what he's doing)
 Frontend- Andrew, Dan
 
-Kidus- strengths unknown
+Kidus- Currently working on poster (could code if he wants to)
 Vinay-Currently working on flyer/board(could code if he wants to)
