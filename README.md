@@ -13,3 +13,9 @@ Long-Term Objectives:
 -Create a neural network that uses the sentiment attached to words and phrases to accurately predict the effect tweets 
 have on the stock market 
 
+Tentative Assignments
+Backend- Johnny, Andrew, Dan(if he figures out what he's doing)
+Frontend- Andrew, Dan
+
+Kidus- strengths unknown
+Vinay-Currently working on flyer/board(could code if he wants to)
